@@ -1,14 +1,14 @@
 # Processamento
 Requerimentos:
-	-Python3
-	-Octave 
+-Python3
+-Octave 
 
 Dependências python:
 Para instalar as dependencias em python basta utilizar o comando “pip3 install -r requirements.txt”  (linux)
-	-scipy
-	-numpy
-	-pillow
-	-oct2py
+-scipy
+-numpy
+-pillow
+-oct2py
 
 
 Método de uso:
