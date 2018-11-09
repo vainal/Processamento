@@ -1,6 +1,4 @@
 # Processamento
-Documentação scripts de processamento do biospeckle
-
 Requerimentos:
 	-Python3
 	-Octave 
